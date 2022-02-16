@@ -1,0 +1,111 @@
+color:
+black #000000
+ash   #626262
+
+
+psd to html
+
+
+section define -7
+layout define
+    full complete
+code comment
+semantic markup   
+ 
+reusable block
+
+asset gather
+
+  logo
+  image
+  icon
+  text
+  font
+
+
+css her...
+  font-family
+  font-size
+  font-weight
+  color
+  text-transform
+  text-align
+  line-height
+  letter-spacing
+  word-spacing
+
+  weight
+  height  
+
+
+  margin
+
+    top
+    bottom
+    left
+    right
+
+ padding 
+
+
+common -  body
+
+ui  ux  
+
+    1. color combination 2/3
+          catagory
+          logo
+          color 2/3
+
+    2. typography
+         fonts - 2/3
+
+         Inconsolata reg
+         playfair display reg
+         ubuntu light
+
+
+    
+<!-- 
+
+cdn = content delivery network
+download
+
+  http://
+
+-->
+
+
+    3. consistancy
+
+    4. spacing
+
+
+font-family: 'Inconsolata', monospace;
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+DaFont
+Font Squirrel
+1001 free font
+
+download font formate
+        
+        ttf/otf
+        woff
+        woff2
+
+
+
+seo
+  h1-h6
+  p
+  img alt name
+  strong
+  em
+  meta data
+
+
+  html validation
+  
